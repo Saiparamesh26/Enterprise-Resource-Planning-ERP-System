@@ -1,0 +1,54 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 533 >>
+stream
+BT /F1 10 Tf 40 760 Td 14 TL
+/F1 14 Tf (ERP SYSTEM - BUSINESS REPORT) Tj /F1 10 Tf T*
+(Generated: 9/25/2026, 12:12:04 PM) Tj T*
+() Tj T*
+(SUMMARY) Tj T*
+(Employees: 0) Tj T*
+(Customers: 1) Tj T*
+(Products: 3) Tj T*
+(Sales Orders: 1) Tj T*
+(Purchase Orders: 0) Tj T*
+(Transactions: 2) Tj T*
+() Tj T*
+(FINANCIAL SUMMARY) Tj T*
+(Income: INR 12000.00) Tj T*
+(Expenses: INR 560.00) Tj T*
+(Balance: INR 11440.00) Tj T*
+() Tj T*
+(RECENT SALES) Tj T*
+(INV-2026-0001 | ABC Corporation | INR 12000.00) Tj T*
+() Tj T*
+(PURCHASE ORDERS) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+901
+%%EOF
